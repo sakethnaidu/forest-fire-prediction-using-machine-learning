@@ -1,0 +1,40 @@
+Area,Oxygen,Temperature,Humidity,Fire Occurrence
+Jharkand,40,45,20,1
+Bangalore,50,30,10,1
+Ecuador,10,20,70,0
+texas,60,45,70,1
+Bangalore,30,48,10,1
+hyderabad,50,15,30,0
+dubai,5,35,35,0
+new delhi,5,20,70,0
+Ecuador,60,32,19,1
+indore,30,50,45,1
+china,40,55,80,1
+srilanka,30,39,100,0
+Jharkand,10,12,12,0
+bangladesh,20,23,23,0
+Ecuador,60,34,15,1
+canada,80,4,68,0
+tibet,25,56,79,1
+taiwan,12,45,90,0
+france,28,43,15,1
+europe,26,0,32,0
+africa,32,37,21,1
+south africa,45,48,12,1
+newzland,56,15,65,0
+afganistan,67,45,33,1
+mynmar,78,49,8,1
+usa,89,45,18,1
+korea,21,12,44,0
+north korea,11,20,59,0
+south korea,1,32,70,0
+kakinada,5,20,45,0
+vizag,42,43,20,1
+rajamundry,32,60,30,1
+guntur,5,15,5,0
+vijayawada,20,30,5,0
+amaravathi,30,51,2,1
+australia,60,60,10,1
+singapore,10,10,60,0
+uk,0,30,0,0
+dallas,45,45,15,1
